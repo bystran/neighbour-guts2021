@@ -1,3 +1,23 @@
+# Neighbour
+This project was developed as a part of the 2021 Hackathon at the University of Glasgow. Moreover, the project won in its category and overall 1st place.
+
+The app was designed to facilitate volunteering activities within the neighbourhood community during COVID. The app was deployed on AWS, following a Serverless architecture, with a front-end developed in React.
+
+# Screenshots
+
+![Home Page (top)](https://imgur.com/A8k2RfR.png)
+![Home Page (bottom)](https://imgur.com/ooS9jzU.png)
+![My job add (pending)](https://imgur.com/ExTIee4.png)
+![My job add (open)](https://imgur.com/nTCC4nD.png)
+![List of jobs](https://imgur.com/Ed8NMuC.png)
+![Filtered list of jobs](https://imgur.com/VoaLegA.png)
+![List of jobs near me](https://imgur.com/NA05Pyp.png)
+![My job (uncompleted)](https://imgur.com/r0cT0eg.png)
+![Profile page](https://imgur.com/7qljRfc.png)
+![Create new job add](https://imgur.com/UohExPx.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
